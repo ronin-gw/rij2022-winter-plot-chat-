@@ -100,7 +100,8 @@ EXCLUDE_MESSAGE_TERMS = (
     " subscribed with Prime",
     " subscribed at Tier ",
     " gifted a Tier ",
-    " is gifting "
+    " is gifting ",
+    " raiders from "
 )
 
 # (title, movie start time as timestamp, offset hour, min, sec)
